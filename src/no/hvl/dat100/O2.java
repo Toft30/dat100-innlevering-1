@@ -7,7 +7,6 @@ public class O2 {
 	public static void main(String[] args) {
 
 		double a = Double.parseDouble(showInputDialog("Lønn: "));
-		double totalsum = 0;
 		double max1 = (292859 - 208051) * 0.017;
 		double max2 = (670000 - 292851) * 0.04;
 		double max3 = (937900 - 670001) * 0.136;
